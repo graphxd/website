@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'GraphXD'
-copyright = u'2017, K. Jarrod Millman'
-author = u'K. Jarrod Millman'
+copyright = u'2017, K. Jarrod Millman, Stéfan van der Walt, and Nelle Varoquaux'
+author = u'K. Jarrod Millman, Stéfan van der Walt, and Nelle Varoquaux'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -99,8 +99,8 @@ html_theme_options = {
 html_sidebars = {
     '**': [
         'about.html',
-        'navigation.html',
-        'searchbox.html',
+#        'navigation.html',
+#        'searchbox.html',
     ]
 }
 
@@ -109,6 +109,7 @@ html_sidebars = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+#html_use_smartypants = True
 
 # -- Options for HTMLHelp output ------------------------------------------
 
@@ -141,7 +142,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'GraphXD.tex', u'GraphXD Documentation',
-     u'K. Jarrod Millman', 'manual'),
+     u'K. Jarrod Millman, Stéfan van der Walt, and Nelle Varoquaux', 'manual'),
 ]
 
 
