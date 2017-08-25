@@ -91,7 +91,7 @@ html_theme = 'alabaster'
 #
 # html_theme_options = {}
 html_theme_options = {
-    'logo': 'graphxd.png',
+    'logo': 'graphxd.svg',
     'logo_name': True,
     'logo_text_align': 'center',
 }
