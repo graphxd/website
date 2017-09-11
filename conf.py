@@ -94,6 +94,7 @@ html_theme_options = {
     'logo': 'graphxd.svg',
     'logo_name': True,
     'logo_text_align': 'center',
+    'extra_nav_links': {"Email list": 'https://groups.google.com/a/lists.berkeley.edu/forum/#!forum/graphxd'},
 }
 
 html_sidebars = {
