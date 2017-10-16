@@ -50,7 +50,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.7565218"
-     inkscape:cx="-21.078164"
+     inkscape:cx="1.4151343"
      inkscape:cy="69.861815"
      inkscape:window-x="0"
      inkscape:window-y="37"
@@ -83,7 +83,7 @@
   </sodipodi:namedview>
   <g
      id="g4222"
-     transform="scale(0.90845277,0.90845277)">
+     transform="matrix(0.8616898,0,0,0.8616898,2.37229,1.26238)">
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#7e95b3;stroke-width:5.06985569;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 134.72902,80.235419 A 18.337683,18.337683 0 0 1 116.39134,98.573101 18.337683,18.337683 0 0 1 98.053653,80.235419 18.337683,18.337683 0 0 1 116.39134,61.897736 18.337683,18.337683 0 0 1 134.72902,80.235419 Z"
@@ -159,7 +159,7 @@
   </g>
   <g
      id="g4214"
-     transform="matrix(0.7958428,0,0,0.7958428,-144.46494,91.193163)">
+     transform="matrix(0.954164,0,0,0.954164,-189.59611,74.292685)">
     <text
        sodipodi:linespacing="125%"
        id="text3352"
