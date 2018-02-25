@@ -66,8 +66,8 @@ TBD
 
 .. _hagberg:
 
-Talk
-----
+Connecting graph data, algorithms, and software
+-----------------------------------------------
 
 | **Aric Hagberg**
 
