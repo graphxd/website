@@ -2,18 +2,18 @@ from tabulate import tabulate
 
 headers = ["Time", "Activity"]
 day1 = [["9:00--9:30", "**Breakfast**"],
-        ["9:30--10:00", "Welcome"],
+        ["9:30--10:00", "Jarrod Millman, :ref:`millman`"],
         ["10:00--10:30", "Lauren Ponisio, :ref:`ponisio`"],
         ["10:30--11:00", "Erica Newman, :ref:`newman`"],
         ["11:00--11:30", "**Tea**"],
-        ["11:30--12:00", "Aaron Schild, :ref:`schild`"],
-        ["12:00--12:30", "Theo McKenzie, :ref:`mckenzie`"],
+        ["11:30--12:00", "Theo McKenzie, :ref:`mckenzie`"],
+        ["12:00--12:30", "Aaron Schild, :ref:`schild`"],
         ["12:30--2:00", "**Lunch**"],
         ["2:00--3:00", "Aric Hagberg, :ref:`hagberg`"],
         ["3:00--3:30", "Aydin Buluc, :ref:`buluc`"],
         ["3:30--4:00", "**Tea**"],
-        ["4:00--4:30", "Nelle Varoquaux, :ref:`varoquaux`"],
-        ["4:30--5:00", "Katelyn Arnemann, :ref:`arnemann`"],
+        ["4:00--4:30", "Katelyn Arnemann, :ref:`arnemann`"],
+        ["4:30--5:00", "Discussion"],
         ["5:00--7:00", "BBQ"]]
 
 day2 = [["9:00--9:30", "**Breakfast**"],
