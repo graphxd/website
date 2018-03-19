@@ -86,7 +86,7 @@ and comparisons to real interaction networks.
 A history of spectral graph theory and its applications, part I
 ---------------------------------------------------------------
 
-| **Theo McKenzie**
+| **Nick Ryder**
 
 Spectral graph theory gives an expression of the combinatorial properties of a
 graph using the eigenvalues and eigenvectors of matrices associated with the
