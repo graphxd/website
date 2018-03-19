@@ -131,7 +131,7 @@ TBD
 Graph abstractions in computational genomics
 --------------------------------------------
 
-| **Aydin Buluc**
+| **Aydın Buluç**
 
 Relationships among entities in genomics, such as proteins, DNA sequences, or
 genetics markers, are often represented as graphs. Graph abstraction helped
