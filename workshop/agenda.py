@@ -6,7 +6,7 @@ day1 = [["9:00--9:30", "**Breakfast**"],
         ["10:00--10:30", "Lauren Ponisio, :ref:`ponisio`"],
         ["10:30--11:00", "Erica Newman, :ref:`newman`"],
         ["11:00--11:30", "**Tea**"],
-        ["11:30--12:00", "Theo McKenzie, :ref:`mckenzie`"],
+        ["11:30--12:00", "Nick Ryder, :ref:`ryder`"],
         ["12:00--12:30", "Aaron Schild, :ref:`schild`"],
         ["12:30--2:00", "**Lunch**"],
         ["2:00--3:00", "Aric Hagberg, :ref:`hagberg`"],
@@ -23,16 +23,15 @@ day2 = [["9:00--9:30", "**Breakfast**"],
         ["11:30--12:00", "Kimon Fountoulakis, :ref:`fountoulakis`"],
         ["12:00--12:30", "Ludwig Schmidt, :ref:`schmidt`"],
         ["12:30--2:00", "**Lunch**"],
-        ["2:00--3:00", "Discussion"],
-        ["3:00--3:30", "**Tea**"],
-        ["3:30--5:00", "TBD"]]
+        ["2:00--3:00", "Planning"],
+        ["3:00--5:00", "Self-organized activities"]]
 
 day3 = [["9:00--9:30", "**Breakfast**"],
-        ["9:30--12:00", "TBD"],
-        ["12:00--1:00", "**Lunch**"],
-        ["1:00--3:00", "TBD"],
-        ["3:00--3:30", "**Tea**"],
-        ["3:30--5:00", "TBD"]]
+        ["9:30--12:30", "Self-organized activities"],
+        ["12:30--1:30", "**Lunch**"],
+        ["1:30--3:00", "Self-organized activities"],
+        ["3:00--4:00", "Discussion"],
+        ["3:30--5:00", "Reflection"]]
 
 print "March 27"
 print "--------"

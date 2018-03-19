@@ -81,7 +81,7 @@ respectively, are provided for use in further explorations of network structure
 and comparisons to real interaction networks.
 
 
-.. _mckenzie:
+.. _ryder:
 
 A history of spectral graph theory and its applications, part I
 ---------------------------------------------------------------
