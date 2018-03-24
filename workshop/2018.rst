@@ -7,7 +7,8 @@ Topics will include interesting **data** represented as graphs,
 graph **algorithms**, as well as **software** for creating, manipulating,
 and studying the structure, dynamics, and functions of complex networks.
 
-`Directions to BIDS <https://bids.berkeley.edu/about/directions-and-travel>`_
+- :ref:`agenda-2018`
+- `Directions to BIDS <https://bids.berkeley.edu/about/directions-and-travel>`_
 
 Organizers
 ----------
@@ -56,6 +57,8 @@ Invited Participants
   (Biostatistics, UC Berkeley)
 - `Soumendu Mukherjee <https://www.stat.berkeley.edu/~soumendu/>`_
   (Statistics, UC Berkeley)
+- Russell Neches
+  (Biochemistry & Biophysics, UC San Francisco)
 - `Erica Newman <https://ericanewmanecology.wordpress.com/>`_
   (Natural Resources and the Environment, University of Arizona)
 - `M Pacer <https://mpacer.org/>`_
@@ -80,5 +83,7 @@ Invited Participants
   (Radiology and Biomedical Imaging, UC San Francisco)
 - `Chris Warner <https://redwood.berkeley.edu/people/chris-warner/>`_
   (Biophysics, UC Berkeley)
+- Brian Xia
+  (Siemens)
 - `Stella Yu <http://www.icsi.berkeley.edu/~stellayu>`_
   (Computer Science, Vision Science, and ICSI Vision Group, UC Berkeley)
