@@ -43,8 +43,8 @@ also propel our understanding of ecological interactions forward.
 
 .. _gaiarsa:
 
-Understanding the ecology and evolution of communities through networks, part I
--------------------------------------------------------------------------------
+Understanding the ecology and evolution of communities through networks, part II
+--------------------------------------------------------------------------------
 
 | **Marília Palumbo Gaiarsa**
 
